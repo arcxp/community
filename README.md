@@ -5,11 +5,11 @@ Welcome to Arc XP Developer Discussions! :tada: We're thrilled to have you join 
 
 ## Getting Started
 
-[Introduction to Arc XP](https://sturdy-system-nvn3z1e.pages.github.io/tutorials/getting-started/introduction-to-arc-xp/)
+[Introduction to Arc XP](https://dev.arcxp.com/tutorials/getting-started/introduction-to-arc-xp)
 
-[Quick Start](https://sturdy-system-nvn3z1e.pages.github.io/tutorials/quick-start/introduction-to-quick-start/)
+[Quick Start](https://dev.arcxp.com/tutorials/quick-start/introduction-to-quick-start/)
 
-[Developer Tools at Arc XP](https://sturdy-system-nvn3z1e.pages.github.io/tutorials/getting-started/developer-tools-overview/)
+[Developer Tools at Arc XP](https://dev.arcxp.com/tutorials/getting-started/developer-tools-overview/)
 
 
 
