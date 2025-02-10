@@ -51,7 +51,9 @@ Welcome to Arc XP Developer Discussions! :tada: We're thrilled to have you join 
 
 - Be clear and stay on topic. The Arc XP Developer Community is for collaboration, sharing ideas, and helping other community members. Off-topic comments are a distraction from maintaining a strong community. Staying on topic helps produce positive and productive discussions.
 
-- Making suggestions. Topics should focus on collaboration, sharing ideas, and assisting fellow community members with development and technical solutions. While we always welcome suggestions to improve the Arc XP developer experience, product feature requests for authors, page editors, and site administrators should be submitted through [Feature Improvements & Ideas for Arc XP](https://ideas.arcxp.com/).  
+- Making suggestions. Topics should focus on collaboration, sharing ideas, and assisting fellow community members with development and technical solutions. While we always welcome suggestions to improve the Arc XP developer experience, product feature requests for authors, page editors, and site administrators should be submitted through [Feature Improvements & Ideas for Arc XP](https://ideas.arcxp.com/).
+
+- Requesting support. Incident reports, provisioning, and other support requests should be submitted through [Arc XP Support Portal](https://support.arcpublishing.com/).  
 
 ## Disclaimer
 Any statement in this discussions board that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this forum are based on information available to Arc XP as of the date they are made, and Arc XP assumes no obligation to update these statements. The comments in the public feedback discussions do not represent a commitment, guarantee, obligation, or promise to deliver any product or feature by any particular date. 
